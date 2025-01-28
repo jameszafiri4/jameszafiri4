@@ -1,7 +1,7 @@
-Hello, my name is James Zafiri
-I currently work at Fidelity Investments as an analyst. I've been here since I finished my bachelor's degree in 2021
-I recently obtained my master's degree in Computer Science with a concentration in Software Engineering
-I’m looking to begin my career as a software engineer as soon as possible
+Hello, my name is James Zafiri.
+I currently work at Fidelity Investments as an analyst. I've been here since I finished my bachelor's degree in 2021.
+I recently obtained my master's degree in Computer Science with a concentration in Software Engineering.
+I’m looking to begin my career as a software engineer as soon as possible.
 
 This account will be used to store my code from graduate school, as well as personal projects I'll be working on
 
